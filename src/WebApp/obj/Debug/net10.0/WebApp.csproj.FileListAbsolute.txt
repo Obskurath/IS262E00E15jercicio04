@@ -28,3 +28,4 @@ C:\Users\Xeno\Documents\Ing _Software\IS262E00E15jercicio04\src\WebApp\obj\Debug
 C:\Users\Xeno\Documents\Ing _Software\IS262E00E15jercicio04\src\WebApp\obj\Debug\net10.0\ref\WebApp.dll
 C:\Users\Xeno\Documents\Ing _Software\IS262E00E15jercicio04\src\WebApp\obj\Debug\net10.0\WebApp.RazorAssemblyInfo.cache
 C:\Users\Xeno\Documents\Ing _Software\IS262E00E15jercicio04\src\WebApp\obj\Debug\net10.0\WebApp.RazorAssemblyInfo.cs
+C:\Users\Xeno\Documents\Ing _Software\IS262E00E15jercicio04\src\WebApp\obj\Debug\net10.0\WebApp.sourcelink.json
